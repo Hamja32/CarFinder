@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Tesla Model S",
+    "brand": "Tesla",
+    "price": 90000,
+    "fuelType": "Electric",
+    "seating": "5 Seater",
+    "transmission": "Automatic",
+    "image": "https://th.bing.com/th/id/OIP.JREvq-wAYYqc9dnnPVrZtAHaE8?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 2,
+    "name": "Hyundai Creta",
+    "brand": "Hyundai",
+    "price": 20000,
+    "fuelType": "Petrol",
+    "seating": "5 seater",
+    "transmission": "Manual",
+    "image": "https://cdn.motor1.com/images/mgl/W89JQL/s1/hyundai-creta-n-line-2023.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Kia Seltos",
+    "brand": "Kia",
+    "price": 25000,
+    "fuelType": "Diesel",
+    "seating": "5 seater",
+    "transmission": "Automatic",
+    "image": "https://th.bing.com/th/id/OIP.v9VXZ_3AjzB_uvmbkI-MMQHaEK?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 4,
+    "name": "Maruti Suzuki Swift",
+    "brand": "Maruti",
+    "price": 8000,
+    "fuelType": "Petrol",
+    "seating": "5 seater",
+    "transmission": "Manual",
+    "image": "https://th.bing.com/th/id/OIP.OYUnnJJPJ0wzXmwyr9ZWdgHaE8?w=233&h=180&c=7&r=0&o=5&pid=1.7"
+  },
+  {
+    "id": 5,
+    "name": "Toyota Fortuner",
+    "brand": "Toyota",
+    "price": 45000,
+    "fuelType": "Diesel",
+    "seating": "7 Seater",
+    "transmission": "Automatic",
+    "image": "https://th.bing.com/th/id/OIP.2alAG9Y-wLru77pQWlsCzwHaEK?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 6,
+    "name": "Honda City",
+    "brand": "Honda",
+    "price": 18000,
+    "fuelType": "Petrol",
+    "seating": "5 seater",
+    "transmission": "Manual",
+    "image": "https://cdn.motor1.com/images/mgl/kNO2n/s1/honda-city-hatchback-2021.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Tata Nexon EV",
+    "brand": "Tata",
+    "price": 22000,
+    "fuelType": "Electric",
+    "seating": "5 seater",
+    "transmission": "Automatic",
+    "image": "https://english.cdn.zeenews.com/sites/default/files/2023/09/07/1277268-tata-nexon.ev.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Mahindra XUV700",
+    "brand": "Mahindra",
+    "price": 30000,
+    "fuelType": "Diesel",
+    "seating": "7 Seater",
+    "transmission": "Manual",
+    "image": "https://images.carexpert.com.au/resize/3000/-/app/uploads/2023/06/2023-Mahindra-XUV700-overseas-review-85.jpg"
+  },
+  {
+    "id": 9,
+    "name": "BMW 3 Series",
+    "brand": "BMW",
+    "price": 50000,
+    "fuelType": "Petrol",
+    "seating": "5 seater",
+    "transmission": "Automatic",
+    "image": "https://th.bing.com/th/id/OIP.rptbXyZw1X3O7cSS4y1rOQHaE8?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 10,
+    "name": "Mercedes-Benz GLC",
+    "brand": "Mercedes",
+    "price": 60000,
+    "fuelType": "Diesel",
+    "seating": "5 seater",
+    "transmission": "Automatic",
+    "image": "https://cdn.motor1.com/images/mgl/OYwOe/s1/mercedes-benz-glc.jpg"
+  }
+]
